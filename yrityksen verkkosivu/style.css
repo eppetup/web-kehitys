@@ -3,10 +3,10 @@ body {
 }
 .tab {
   display: flex;
-  justify-content: flex-end; /* Pushes the tabs to the right */
-  gap: 10px;                 /* Optional: adds space between the buttons */
-  background-color: #f1f1f1; /* Optional: background color for the tab bar */
-  padding: 10px;             /* Optional: padding around the buttons */
+  justify-content: flex-end; 
+  gap: 10px;
+  background-color:rgb(200, 200, 200);
+  padding: 10px;
 }
 h1 {
   text-align: center;
