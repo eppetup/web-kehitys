@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(200, 200, 200);
+}
+.tab {
+  display: flex;
+  justify-content: flex-end; /* Pushes the tabs to the right */
+  gap: 10px;                 /* Optional: adds space between the buttons */
+  background-color: #f1f1f1; /* Optional: background color for the tab bar */
+  padding: 10px;             /* Optional: padding around the buttons */
+}
+h1 {
+  text-align: center;
+}

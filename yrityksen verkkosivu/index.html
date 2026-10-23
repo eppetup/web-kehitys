@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+<title>yritys x verkkosivu</title>    
+</head>
+
+<body>
+<div class="tab">
+  <button class="tablinks" onclick="avaaTab(event, 'Home')">Home</button>
+  <button class="tablinks" onclick="avaaTab(event, 'Products')">Products</button>
+  <button class="tablinks" onclick="avaaTab(event, 'Contact')">Contact</button>
+</div>
+
+<div id="Home" class="tabcontent">
+  <h1>yritys x</h1>
+  <p>Tämä on koti</p>
+</div>
+
+<div id="Products" class="tabcontent">
+  <h3>Products</h3>
+  <p>Täällä on tuotteet</p> 
+</div>
+
+<div id="Contact" class="tabcontent">
+  <h2>Contact</h2>
+  <p>Täältä otat yhteyttä</p>
+</div>
+
+<script>
+function avaaTab(evt, tabinNimi) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(tabinNimi).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
+
+</body>
+
+</html>
