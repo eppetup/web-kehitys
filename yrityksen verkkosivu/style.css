@@ -8,6 +8,9 @@ body {
   background-color:rgb(200, 200, 200);
   padding: 10px;
 }
+.tabcontent {
+  display: none;
+}
 h1 {
   text-align: center;
 }
