@@ -1,16 +1,40 @@
 body {
   background-color: rgb(200, 200, 200);
+  background-image: url('bg.jpeg');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: Arial
 }
 .tab {
   display: flex;
   justify-content: flex-end; 
-  gap: 10px;
+  gap: 15px;
   background-color:rgb(200, 200, 200);
   padding: 10px;
 }
 .tabcontent {
   display: none;
+  padding: 20px;
 }
 h1 {
   text-align: center;
 }
+.ylapalkki {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: rgb(200, 200, 200); /* Keeps header background consistent */
+}
+
+#Contact p, 
+#Contact iframe {
+  display: inline-block; 
+  vertical-align: top; 
+}
+
+#Contact p {
+  margin-right: 200px;
+}
+

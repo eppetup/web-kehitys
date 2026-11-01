@@ -1,3 +1,5 @@
+// apuna käytetty https://www.w3schools.com/howto/howto_js_tabs.asp
+
 function avaaTab(evt, tabinNimi) {
   var i, tabcontent, tablinks;
   tabcontent = document.getElementsByClassName("tabcontent");
