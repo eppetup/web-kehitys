@@ -5,11 +5,11 @@
 [Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~username/js1-folder)
 
 Tehdyt tehtävät:
-- Tehtävä 1: 2 p
-- Tehtävä 4: 3 p
-- Tehtävä 5: 6 p
+- Tehtävä 1: 1 p
+- Tehtävä 2: 2 p
+- Tehtävä 3: 3 p
 
-**Yhteensä 11p**
+**Yhteensä xxp**
 
 Kirjoita tähän huomiot mahdollisista ongelmista tai lisäominaisuuksista.
 
