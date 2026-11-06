@@ -10,8 +10,6 @@ let timerId = setInterval(timedAction, 100);
 
 
 function snareDrum() {
-    document.getElementById("test").style.backgroundColor = vari[x];
-    x = (x + 1) % vari.length;
     const audio = document.getElementById('snare');
     if (audio){
         audio.cloneNode().play();
@@ -27,7 +25,7 @@ function bassDrum() {
     }
 }
 
-let timerBd = setInterval(bassDrum, 500);
+let timerBd = setInterval(bassDrum, 500); 
 
 function hiHat() {
     const audio = document.getElementById('hh');
