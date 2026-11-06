@@ -10,8 +10,10 @@ Tehdyt tehtävät:
 - Tehtävä 3: 3 p
 - Tehtävä 4: 3 p
 - Tehtävä 5: 3 p
+- Tehtävä 6: 3 p
+- Tehtävä 7: 2 p
 
-**Yhteensä 12**
+**Yhteensä 17**
 
 Kirjoita tähän huomiot mahdollisista ongelmista tai lisäominaisuuksista.
 
