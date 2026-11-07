@@ -25,5 +25,4 @@ Kirjoita tähän huomiot mahdollisista ongelmista tai lisäominaisuuksista.
 
 Tehdyt tehtävät:
 - Tehtävä 1: 2 p
-- Tehtävä 4: 3 p
-- Tehtävä 5: 6 p
+- Tehtävä 2: 2 p
