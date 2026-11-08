@@ -30,5 +30,7 @@ Tehdyt tehtävät:
 - Tehtävä 3: 2 p
 - Tehtävä 4: 2 p
 - Tehtävä 5: 2 p
+- Tehtävä 6: 2 p
+
 
 **Yhteensä 10**
