@@ -2,7 +2,7 @@
 
 ### JS-moduulit 1 ja 2
 
-[Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~username/js1-folder)
+[Linkki JS-moduulin 1 kansiooni githubissa](https://github.com/eppetup/web-kehitys/tree/main/ohjelmointitehtävät/mod01%20%26%2002)
 
 Tehdyt tehtävät:
 - Tehtävä 1: 1 p
@@ -16,13 +16,12 @@ Tehdyt tehtävät:
 
 **Yhteensä 20**
 
-Kirjoita tähän huomiot mahdollisista ongelmista tai lisäominaisuuksista.
 
 ---
 
 ### JS-moduuli 3
 
-[Linkki JS-moduulin 3 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~username/js2-folder)
+[Linkki JS-moduulin 3 kansiooni users.metropolia.fi-palvelussa](https://github.com/eppetup/web-kehitys/tree/main/ohjelmointitehtävät/mod03)
 
 Tehdyt tehtävät:
 - Tehtävä 1: 2 p
