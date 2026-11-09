@@ -1,0 +1,11 @@
+let luvut = [];
+
+for (let i = 0; i < 5; i++) {
+    let input = prompt(`Anna luku ${i + 1}/5:`);
+    luvut.push(Number(input));
+}
+
+console.log("Luvut päinvastaisessa järjestyksessä:");
+for (let i = luvut.length - 1; i >= 0; i--) {
+    console.log(luvut[i]);
+}

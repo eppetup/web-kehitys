@@ -1,0 +1,17 @@
+let lasketaan = confirm("Lasketaanko neliöjuuri?");
+let tulostus = "";
+
+if (lasketaan){
+    let luku = Number(prompt("Anna luku > ")); 
+    
+    if (luku < 0){
+        tulostus = "Negatiivisen luvun neliöjuurta ei ole määritelty."
+    } else {
+        let nelio = Math.sqrt(luku);
+        tulostus = "Luvun " + luku + " neliöjuuri on " + nelio + ".";
+    }
+} else {
+    tulostus = "Neliöjuurta ei lasketa.";
+}
+
+document.getElementById("tulos").textContent = tulostus;
