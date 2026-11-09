@@ -35,3 +35,16 @@ Tehdyt tehtävät:
 
 
 **Yhteensä 16**
+
+
+---
+
+### JS-moduuli 4
+
+[Linkki JS-moduulin 4 kansiooni githubissa](https://github.com/eppetup/web-kehitys/tree/main/ohjelmointitehtävät/mod03)
+
+Tehdyt tehtävät:
+- Tehtävä 1: 2 p
+
+
+**Yhteensä 16**
