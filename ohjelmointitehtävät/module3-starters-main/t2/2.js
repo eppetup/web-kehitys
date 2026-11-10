@@ -1,7 +1,7 @@
 const target = document.getElementById("target");
 
 const first = document.createElement("li");
-first.textContent = "First item"
+first.textContent = "First item";
 target.appendChild(first);
 
 const second = document.createElement("li");
