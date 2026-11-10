@@ -45,6 +45,7 @@ Tehdyt tehtävät:
 
 Tehdyt tehtävät:
 - Tehtävä 1: 2 p
+- Tehtävä 2: 2 p
 
 
-**Yhteensä 2**
+**Yhteensä 4**
