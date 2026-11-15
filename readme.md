@@ -52,8 +52,8 @@ Tehdyt tehtävät:
 - Tehtävä 6: 1 p
 - Tehtävä 7: 2 p
 - Tehtävä 8: 4 p
-- Tehtävä 9: 4 p
-- Tehtävä 10: 2 p
+- Tehtävä 9: 4 p  
+- Tehtävä 10: 2 p  
 Flask
 - Tehätävä 1: 4p
 
