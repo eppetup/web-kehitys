@@ -41,7 +41,7 @@ Tehdyt tehtävät:
 
 ### JS-moduuli 4
 
-[Linkki JS-moduulin 4 kansiooni]()
+[Linkki JS-moduulin 4 kansiooni](https://eppetup.github.io/tehtavat/mod04/)
 
 Tehdyt tehtävät:
 - Tehtävä 1: 2 p
