@@ -51,6 +51,8 @@ Tehdyt tehtävät:
 - Tehtävä 5: 5 p
 - Tehtävä 6: 1 p
 - Tehtävä 7: 2 p
+- Tehtävä 8: 4 p
 
 
-**Yhteensä 16**
+
+**Yhteensä 20**
