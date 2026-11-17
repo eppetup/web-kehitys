@@ -44,17 +44,24 @@ Tehdyt tehtävät:
 [Linkki JS-moduulin 4 kansiooni](https://eppetup.github.io/tehtavat/mod04/)
 
 Tehdyt tehtävät:
-- Tehtävä 1: 2 p
+- Tehtävä 1: 2p
+- Tehtävä 8: 4 p
+- Tehtävä 9: 4  p
 - Tehtävä 2: 2 p
 - Tehtävä 3: 2 p
 - Tehtävä 4: 2 p
 - Tehtävä 5: 5 p
 - Tehtävä 6: 1 p
-- Tehtävä 7: 2 p
-- Tehtävä 8: 4 p
-- Tehtävä 9: 4 p  
+- Tehtävä 7: 2 p  
 - Tehtävä 10: 2 p  
-Flask
-- Tehätävä 1: 4p
 
-**Yhteensä 30**
+**Yhteensä 26**
+
+### Flask
+
+[Linkki flask kansiooni]()
+
+Tehdyt tehtävät:
+- Tehtävä 1: 4p
+
+**Yhteensä 4**
